@@ -29,7 +29,7 @@ ui <- navbarPage(
     h2('This platform was created to inform the Cameroonian commuinity in the U.S. about
        goods and services offered by their fellow citizens.'),
     h2('Click on each tab above to navigate the platform'),
-    h2('If you want to update or add your business, email me at rjeutong@gmail.com')
+    h2('If you want to update or add your business, email us at rjeutong@gmail.com and stephanefokou@gmail.com')
   ),
   tabPanel(
     h4('Entertainment'), icon = icon('play'),
